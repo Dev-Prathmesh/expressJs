@@ -1,4 +1,6 @@
 {
     "FirstName":"Prathmesh",
-    "LastName":"Naik"
+    "LastName":"Naik",
+    "Age":"26",
+    "Sex":"M"
 }
